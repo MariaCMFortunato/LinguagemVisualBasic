@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\bin\Debug\net7.0-windows\Exercicio03.exe
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\bin\Debug\net7.0-windows\Exercicio03.deps.json
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\bin\Debug\net7.0-windows\Exercicio03.runtimeconfig.json
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\bin\Debug\net7.0-windows\Exercicio03.dll
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\bin\Debug\net7.0-windows\Exercicio03.pdb
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.Form1.resources
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.dll
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\refint\Exercicio03.dll
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.pdb
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\Exercicio03.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio03\obj\Debug\net7.0-windows\ref\Exercicio03.dll
