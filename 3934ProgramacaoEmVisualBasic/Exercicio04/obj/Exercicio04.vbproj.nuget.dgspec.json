@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj": {}
+    "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj": {}
   },
   "projects": {
-    "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj": {
+    "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj",
+        "projectUniqueName": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj",
         "projectName": "Exercicio04",
-        "projectPath": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj",
+        "projectPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\Exercicio04.vbproj",
         "packagesPath": "C:\\Users\\Maria11\\.nuget\\packages\\",
-        "outputPath": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\obj\\",
+        "outputPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

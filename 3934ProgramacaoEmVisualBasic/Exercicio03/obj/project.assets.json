@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\Exercicio03.vbproj",
+      "projectUniqueName": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\Exercicio03.vbproj",
       "projectName": "Exercicio03",
-      "projectPath": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\Exercicio03.vbproj",
+      "projectPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\Exercicio03.vbproj",
       "packagesPath": "C:\\Users\\Maria11\\.nuget\\packages\\",
-      "outputPath": "G:\\Documentos\\MeusProjetos\\VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\obj\\",
+      "outputPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\Exercicio03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
