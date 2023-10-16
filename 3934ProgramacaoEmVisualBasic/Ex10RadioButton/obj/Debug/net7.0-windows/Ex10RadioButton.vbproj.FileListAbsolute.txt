@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\bin\Debug\net7.0-windows\Ex10RadioButton.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\bin\Debug\net7.0-windows\Ex10RadioButton.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\bin\Debug\net7.0-windows\Ex10RadioButton.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\bin\Debug\net7.0-windows\Ex10RadioButton.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\bin\Debug\net7.0-windows\Ex10RadioButton.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\refint\Ex10RadioButton.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\Ex10RadioButton.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex10RadioButton\obj\Debug\net7.0-windows\ref\Ex10RadioButton.dll

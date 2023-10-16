@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\bin\Debug\net7.0-windows\Tarefa01.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\bin\Debug\net7.0-windows\Tarefa01.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\bin\Debug\net7.0-windows\Tarefa01.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\bin\Debug\net7.0-windows\Tarefa01.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\bin\Debug\net7.0-windows\Tarefa01.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\refint\Tarefa01.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\Tarefa01.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Tarefa01\obj\Debug\net7.0-windows\ref\Tarefa01.dll

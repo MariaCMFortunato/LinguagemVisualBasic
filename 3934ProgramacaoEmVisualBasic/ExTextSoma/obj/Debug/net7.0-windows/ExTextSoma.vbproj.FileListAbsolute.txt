@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\bin\Debug\net7.0-windows\ExTextSoma.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\bin\Debug\net7.0-windows\ExTextSoma.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\bin\Debug\net7.0-windows\ExTextSoma.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\bin\Debug\net7.0-windows\ExTextSoma.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\bin\Debug\net7.0-windows\ExTextSoma.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\refint\ExTextSoma.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ExTextSoma.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExTextSoma\obj\Debug\net7.0-windows\ref\ExTextSoma.dll

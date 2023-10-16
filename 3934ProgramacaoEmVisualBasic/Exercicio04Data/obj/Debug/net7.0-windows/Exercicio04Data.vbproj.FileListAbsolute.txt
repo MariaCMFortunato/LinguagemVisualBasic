@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\bin\Debug\net7.0-windows\Exercicio04Data.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\bin\Debug\net7.0-windows\Exercicio04Data.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\bin\Debug\net7.0-windows\Exercicio04Data.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\bin\Debug\net7.0-windows\Exercicio04Data.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\bin\Debug\net7.0-windows\Exercicio04Data.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\refint\Exercicio04Data.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\Exercicio04Data.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio04Data\obj\Debug\net7.0-windows\ref\Exercicio04Data.dll
