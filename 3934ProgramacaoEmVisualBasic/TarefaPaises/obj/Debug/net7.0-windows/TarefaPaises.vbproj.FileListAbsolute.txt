@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\bin\Debug\net7.0-windows\TarefaPaises.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\bin\Debug\net7.0-windows\TarefaPaises.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\bin\Debug\net7.0-windows\TarefaPaises.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\bin\Debug\net7.0-windows\TarefaPaises.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\bin\Debug\net7.0-windows\TarefaPaises.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\refint\TarefaPaises.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\TarefaPaises.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TarefaPaises\obj\Debug\net7.0-windows\ref\TarefaPaises.dll

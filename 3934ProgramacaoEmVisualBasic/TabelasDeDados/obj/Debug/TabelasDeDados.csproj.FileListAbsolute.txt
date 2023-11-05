@@ -1,0 +1,7 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\obj\Debug\TabelasDeDados.csproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\obj\Debug\TabelasDeDados.csproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\bin\Debug\TabelasDeDados.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\bin\Debug\TabelasDeDados.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\bin\Debug\TabelasDeDados.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\obj\Debug\TabelasDeDados.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\TabelasDeDados\obj\Debug\TabelasDeDados.pdb

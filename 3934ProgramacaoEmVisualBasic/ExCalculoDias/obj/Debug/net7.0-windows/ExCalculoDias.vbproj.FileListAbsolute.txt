@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\bin\Debug\net7.0-windows\ExCalculoDias.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\bin\Debug\net7.0-windows\ExCalculoDias.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\bin\Debug\net7.0-windows\ExCalculoDias.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\bin\Debug\net7.0-windows\ExCalculoDias.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\bin\Debug\net7.0-windows\ExCalculoDias.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\refint\ExCalculoDias.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ExCalculoDias.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCalculoDias\obj\Debug\net7.0-windows\ref\ExCalculoDias.dll

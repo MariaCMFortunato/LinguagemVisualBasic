@@ -1,0 +1,17 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\bin\Debug\net7.0-windows\ExIfs.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\bin\Debug\net7.0-windows\ExIfs.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\bin\Debug\net7.0-windows\ExIfs.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\bin\Debug\net7.0-windows\ExIfs.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\bin\Debug\net7.0-windows\ExIfs.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\refint\ExIfs.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ref\ExIfs.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExIfs\obj\Debug\net7.0-windows\ExIfs.login.resources

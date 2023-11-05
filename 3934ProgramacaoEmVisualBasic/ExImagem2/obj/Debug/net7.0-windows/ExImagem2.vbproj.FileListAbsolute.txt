@@ -1,0 +1,17 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\bin\Debug\net7.0-windows\ExImagem2.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\bin\Debug\net7.0-windows\ExImagem2.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\bin\Debug\net7.0-windows\ExImagem2.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\bin\Debug\net7.0-windows\ExImagem2.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\bin\Debug\net7.0-windows\ExImagem2.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\refint\ExImagem2.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ExImagem2.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExImagem2\obj\Debug\net7.0-windows\ref\ExImagem2.dll

@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\bin\Debug\net7.0-windows\EXSelecCase1.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\bin\Debug\net7.0-windows\EXSelecCase1.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\bin\Debug\net7.0-windows\EXSelecCase1.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\bin\Debug\net7.0-windows\EXSelecCase1.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\bin\Debug\net7.0-windows\EXSelecCase1.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\refint\EXSelecCase1.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\EXSelecCase1.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\EXSelecCase1\obj\Debug\net7.0-windows\ref\EXSelecCase1.dll

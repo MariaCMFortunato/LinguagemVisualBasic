@@ -1,0 +1,17 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\bin\Debug\net7.0-windows\ExSistemaDePagamento.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\bin\Debug\net7.0-windows\ExSistemaDePagamento.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\bin\Debug\net7.0-windows\ExSistemaDePagamento.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\bin\Debug\net7.0-windows\ExSistemaDePagamento.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\bin\Debug\net7.0-windows\ExSistemaDePagamento.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\refint\ExSistemaDePagamento.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ref\ExSistemaDePagamento.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExSistemaDePagamento\obj\Debug\net7.0-windows\ExSistemaDePagamento.Form2.resources

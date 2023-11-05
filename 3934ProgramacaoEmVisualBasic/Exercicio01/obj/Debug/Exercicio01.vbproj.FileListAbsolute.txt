@@ -7,3 +7,12 @@ G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\
 G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\bin\Debug\Exercicio01.pdb
 G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.exe
 G:\Documentos\MeusProjetos\VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\bin\Debug\Exercicio01.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\bin\Debug\Exercicio01.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\bin\Debug\Exercicio01.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Exercicio01\obj\Debug\Exercicio01.pdb

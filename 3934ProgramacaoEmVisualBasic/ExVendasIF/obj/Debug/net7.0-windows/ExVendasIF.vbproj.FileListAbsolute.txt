@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\bin\Debug\net7.0-windows\ExVendasIF.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\bin\Debug\net7.0-windows\ExVendasIF.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\bin\Debug\net7.0-windows\ExVendasIF.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\bin\Debug\net7.0-windows\ExVendasIF.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\bin\Debug\net7.0-windows\ExVendasIF.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\refint\ExVendasIF.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ExVendasIF.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExVendasIF\obj\Debug\net7.0-windows\ref\ExVendasIF.dll
