@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\bin\Debug\ExFuncaoPMT.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\bin\Debug\ExFuncaoPMT.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\bin\Debug\ExFuncaoPMT.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\bin\Debug\ExFuncaoPMT.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExFuncaoPMT\obj\Debug\ExFuncaoPMT.pdb

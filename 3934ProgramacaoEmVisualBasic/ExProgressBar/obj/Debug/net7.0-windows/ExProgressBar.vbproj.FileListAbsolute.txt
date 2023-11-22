@@ -1,0 +1,17 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\bin\Debug\net7.0-windows\ExProgressBar.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\bin\Debug\net7.0-windows\ExProgressBar.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\bin\Debug\net7.0-windows\ExProgressBar.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\bin\Debug\net7.0-windows\ExProgressBar.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\bin\Debug\net7.0-windows\ExProgressBar.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\refint\ExProgressBar.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ref\ExProgressBar.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExProgressBar\obj\Debug\net7.0-windows\ExProgressBar.Programa.resources

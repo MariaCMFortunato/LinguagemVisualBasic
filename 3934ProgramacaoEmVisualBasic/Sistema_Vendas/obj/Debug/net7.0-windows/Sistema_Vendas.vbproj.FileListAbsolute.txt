@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\bin\Debug\net7.0-windows\Sistema_Vendas.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\bin\Debug\net7.0-windows\Sistema_Vendas.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\bin\Debug\net7.0-windows\Sistema_Vendas.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\bin\Debug\net7.0-windows\Sistema_Vendas.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\bin\Debug\net7.0-windows\Sistema_Vendas.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\refint\Sistema_Vendas.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\Sistema_Vendas.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Sistema_Vendas\obj\Debug\net7.0-windows\ref\Sistema_Vendas.dll

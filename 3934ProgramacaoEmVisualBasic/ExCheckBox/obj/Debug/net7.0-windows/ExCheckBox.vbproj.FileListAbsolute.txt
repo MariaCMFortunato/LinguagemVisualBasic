@@ -1,0 +1,16 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\bin\Debug\net7.0-windows\ExCheckBox.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\bin\Debug\net7.0-windows\ExCheckBox.deps.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\bin\Debug\net7.0-windows\ExCheckBox.runtimeconfig.json
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\bin\Debug\net7.0-windows\ExCheckBox.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\bin\Debug\net7.0-windows\ExCheckBox.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.AssemblyInfoInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.AssemblyInfo.vb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\refint\ExCheckBox.dll
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ExCheckBox.genruntimeconfig.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExCheckBox\obj\Debug\net7.0-windows\ref\ExCheckBox.dll
