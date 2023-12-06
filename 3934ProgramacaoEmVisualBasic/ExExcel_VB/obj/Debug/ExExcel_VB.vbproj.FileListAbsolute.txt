@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\bin\Debug\ExExcel_VB.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\bin\Debug\ExExcel_VB.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\bin\Debug\ExExcel_VB.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\bin\Debug\ExExcel_VB.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExExcel_VB\obj\Debug\ExExcel_VB.pdb

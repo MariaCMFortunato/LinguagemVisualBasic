@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\bin\Debug\Ex_Areas.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\bin\Debug\Ex_Areas.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\bin\Debug\Ex_Areas.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\bin\Debug\Ex_Areas.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\Ex_Areas\obj\Debug\Ex_Areas.pdb
