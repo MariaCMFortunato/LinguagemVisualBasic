@@ -1,0 +1,14 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.LogIn.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\bin\Debug\ExercicioLogIn.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\bin\Debug\ExercicioLogIn.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\bin\Debug\ExercicioLogIn.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\bin\Debug\ExercicioLogIn.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\obj\Debug\ExercicioLogIn.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\3934ProgramacaoEmVisualBasic\ExercicioLogIn\bin\Debug\Dados.mdb

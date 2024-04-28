@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7348AFE5-B726-4E4B-AA05-3D673C8F6FB0}|ExVendasIF\\ExVendasIF.vbproj|g:\\documentos\\meusprojetos\\linguagem_visualbasic\\3934programacaoemvisualbasic\\exvendasif\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7348AFE5-B726-4E4B-AA05-3D673C8F6FB0}|ExVendasIF\\ExVendasIF.vbproj|solutionrelative:exvendasif\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExVendasIF\\Form1.vb",
+              "RelativeDocumentMoniker": "ExVendasIF\\Form1.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExVendasIF\\Form1.vb [Design]",
+              "RelativeToolTip": "ExVendasIF\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-01T14:49:18.949Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

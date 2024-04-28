@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio04Data"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d782641cb6a63748be1a7f51d5a8d6451307d9a"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Exercicio04Data"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Exercicio04Data"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
