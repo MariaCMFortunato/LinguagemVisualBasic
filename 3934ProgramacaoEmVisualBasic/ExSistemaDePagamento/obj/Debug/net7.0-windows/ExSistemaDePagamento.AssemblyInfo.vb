@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ExSistemaDePagamento"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61a751c1f30fb6864c157471f51654ca7c0d4267"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ExSistemaDePagamento"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ExSistemaDePagamento"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

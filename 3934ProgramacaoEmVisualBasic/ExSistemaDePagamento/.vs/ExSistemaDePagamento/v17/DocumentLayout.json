@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|g:\\documentos\\meusprojetos\\linguagem_visualbasic\\3934programacaoemvisualbasic\\exsistemadepagamento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B3A26E8E-B9CF-42B9-B323-432FFB1A3A31}|ExSistemaDePagamento.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 310,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-11-03T10:23:47.962Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-11-03T11:11:15.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\3934ProgramacaoEmVisualBasic\\ExSistemaDePagamento\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-11-03T10:10:49.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
