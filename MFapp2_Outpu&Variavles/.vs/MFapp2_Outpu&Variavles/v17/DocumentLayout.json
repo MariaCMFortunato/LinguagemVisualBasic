@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4C9A79-B0C3-44E0-A82D-25C7163A1AB1}|MFapp2_Outpu\u0026Variavles.vbproj|G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DB4C9A79-B0C3-44E0-A82D-25C7163A1AB1}|MFapp2_Outpu\u0026Variavles.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB4C9A79-B0C3-44E0-A82D-25C7163A1AB1}|MFapp2_Outpu\u0026Variavles.vbproj|g:\\documentos\\meusprojetos\\linguagem_visualbasic\\mfapp2_outpu\u0026variavles\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DB4C9A79-B0C3-44E0-A82D-25C7163A1AB1}|MFapp2_Outpu\u0026Variavles.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T16:36:42.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "G:\\Documentos\\MeusProjetos\\Linguagem_VisualBasic\\MFapp2_Outpu\u0026Variavles\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-08T16:30:54.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

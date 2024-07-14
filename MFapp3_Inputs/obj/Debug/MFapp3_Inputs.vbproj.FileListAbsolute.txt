@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\bin\Debug\MFapp3_Inputs.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\bin\Debug\MFapp3_Inputs.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\bin\Debug\MFapp3_Inputs.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\bin\Debug\MFapp3_Inputs.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp3_Inputs\obj\Debug\MFapp3_Inputs.pdb

@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\bin\Debug\MFapp2_Outpu&Variavles.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\bin\Debug\MFapp2_Outpu&Variavles.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\bin\Debug\MFapp2_Outpu&Variavles.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\bin\Debug\MFapp2_Outpu&Variavles.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu_Variavles.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu_Variavles.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFapp2_Outpu&Variavles\obj\Debug\MFapp2_Outpu&Variavles.pdb

@@ -1,0 +1,12 @@
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\bin\Debug\MFApp1.exe.config
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\bin\Debug\MFApp1.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\bin\Debug\MFApp1.pdb
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\bin\Debug\MFApp1.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.vbproj.AssemblyReference.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.Form1.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.Resources.resources
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.vbproj.GenerateResource.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.vbproj.CoreCompileInputs.cache
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.exe
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.xml
+G:\Documentos\MeusProjetos\Linguagem_VisualBasic\MFApp1\obj\Debug\MFApp1.pdb
